@@ -21,4 +21,15 @@ cd RTR108 ---> ./git-upload 20190221_15_14
 
 ---
 
+nano shell_scripting_tutorial.sh			insert progu
+chmod 744 shell_scripting_tutorial.sh		tiesibas
+./shell_scripting_tutorial.sh				palaisana
+
+git clone https://github.com/vladbond428/RTR108/
+mv Shell/ RTR108/
+cd RTR108
+./git-upload datums-laiks
+
+---
+
 
